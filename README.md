@@ -52,7 +52,6 @@ Connect and follow **MyCodeBook** for more beginner-friendly explanations, proje
 - 📧 **Substack Newsletter**: [Substack](https://substack.com/@mycodebook)
 - 📺 **YouTube Channel**: [Youtube](https://www.youtube.com/@MyCodeBook-j3x)
 
----
 
 ## 🙌 Support MyCodeBook
 
